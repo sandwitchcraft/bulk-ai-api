@@ -1,0 +1,4 @@
+httpx>=0.24
+rich>=13
+questionary>=2.0
+keyring>=23
